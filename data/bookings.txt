@@ -1,0 +1,13 @@
+--------------------------------------------
+Booking ID : BK1466
+Guest Name : Vinodhini
+Phone : 9876543210
+Email : vinodhini@gmail.com
+Room ID : 101
+Room Type : Single
+Check In : 2026-07-25
+Check Out : 2026-07-28
+Nights : 3
+Total Amount : ₹4500.0
+Status : CONFIRMED
+--------------------------------------------
