@@ -117,12 +117,7 @@ Hotel-Room-Booking-Console-App
 ├── outputs
 │   └── result.txt
 │
-├── screenshots
-│
-├── docs
-│
 ├── README.md
-└── .gitignore
 ```
 
 ---
