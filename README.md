@@ -192,5 +192,3 @@ Total Bill : ₹7500.0
 - Online Booking API
 
 ---
-
-ider giving it a Star!
